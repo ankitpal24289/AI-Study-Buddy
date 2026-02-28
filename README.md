@@ -1,4 +1,5 @@
-# 🎓 AI Study Buddy
+#  AI Study Buddy - AICTE - Batch 7
+
 
 An AI-powered study companion built with Python and Streamlit.
 
