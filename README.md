@@ -4,11 +4,11 @@
 An AI-powered study companion built with Python and Streamlit.
 
 ## Features
-- 💡 **Concept Explainer** — Any topic at ELI5 → University level
-- 📄 **Note Summarizer** — Structured summaries from notes or uploaded PDFs/DOCX
-- 📝 **Quiz Generator** — Interactive MCQ or True/False quizzes with scoring
-- 🃏 **Flashcard Maker** — Flashcard decks with Anki CSV export
-- 💬 **Study Chat** — Multi-turn AI tutor with conversation memory
+- **Concept Explainer** — Any topic at ELI5 → University level
+- **Note Summarizer** — Structured summaries from notes or uploaded PDFs/DOCX
+- **Quiz Generator** — Interactive MCQ or True/False quizzes with scoring
+- **Flashcard Maker** — Flashcard decks with Anki CSV export
+- **Study Chat** — Multi-turn AI tutor with conversation memory
 
 ## Quick Start
 
